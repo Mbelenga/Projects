@@ -1,5 +1,5 @@
 // My first dart code
-
-void main() {
+{
+void main()
   print("Hello World");
 }
