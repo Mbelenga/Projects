@@ -5,3 +5,4 @@ let currentWeapon = 0;
 let fighting;
 let monsterHealth;
 let inventory = ["stick"];
+const button1 = document.querySelector("#button1");
